@@ -7,6 +7,7 @@ namespace FianerdTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Du kunde ju ha skrivit mer perosnligt");
         }
     }
 }
